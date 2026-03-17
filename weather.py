@@ -48,3 +48,4 @@ else:
     print(f"오류: {res.status_code}")
     print(res.text[:200])
 
+wait
