@@ -2,7 +2,7 @@
 import requests
 from datetime import datetime
 
-SERVICE_KEY = "26ffdcee3ca79a9a3dc8fa33df9396bbb5dd04f82eeace060f2f1ef0f2536a04"
+SERVICE_KEY = "123456789"
 
 url = ("http://apis.data.go.kr/1360000/"
        "VilageFcstInfoService_2.0/getUltraSrtNcst")
